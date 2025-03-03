@@ -25,4 +25,5 @@ A simple Chrome extension that explains selected text in **the easiest way possi
 <img width="1032" alt="Screenshot 2025-03-02 at 19 12 01" src="https://github.com/user-attachments/assets/93ad2166-79c9-4956-b6a5-abee383a85dc" />
 
 
+**This extension does not collect, store, or share any personal data. It only processes selected text locally or sends it to OpenAI for explanations. No data is stored by the extension.**
 
